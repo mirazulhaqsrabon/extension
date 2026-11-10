@@ -1,0 +1,11 @@
+
+{
+  "languages": [
+    {
+      "grammar": "Astro.tmLanguage.json",
+      "name": "Astro",
+      "scopeName": "source.astro",
+      "languageConfiguration": "Astro.config.json"
+    }
+  ]
+}
